@@ -8,7 +8,7 @@ Edmondo (recipe for four people): 🧑‍🍳
 - Season with data engineering tomato sauce  🍅
 - Mix with pragmatism and passion for business impact 
 
- Can be served hot or cold, in large organizations or at small dinners, in deep technical discussion and high level strategic roadmaps.
+ Can be served hot or cold, in large organizations or at small dinners, in deep technical discussions and high level strategic roadmaps.
 
 
 ### A little about me.
