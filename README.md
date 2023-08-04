@@ -10,12 +10,7 @@ Edmondo (recipe for four people): 🧑‍🍳
 
  Can be served hot or cold, in large organizations or at small dinners, in deep technical discussions and high level strategic roadmaps.
 
-
-### A little about me.
-
-I am a software / data engineer passionate about writing software that change the world. I have been working recently at startups and previously in large organization.
-
-
+These are my [assistant code reviewers](https://github.com/reviewdog/reviewdog)
 
 
 <!--
