@@ -13,7 +13,9 @@ Edmondo (recipe for four people): 🧑‍🍳
 
 ### A little about me.
 
-I am a software / data engineer passionate about writing software that change the world. In the past seven years I have been leading engineering efforts in startups, while I had previously worked in large organizations. 
+I am a software / data engineer passionate about writing software that change the world. I have been working recently at startups and previously in large organization.
+
+
 
 
 <!--
