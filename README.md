@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-Edmondo (recipe for four people): 🍳
+Edmondo (recipe for four people): 🧑‍🍳
 - Take a base of core software engineering
-- Add two scoops of distributed systems  
+- Add two scoops of distributed systems 
 - Add three chopped ounces of Site Reliability Engineering
 - Season with data engineering tomato sauce  🍅
 - Mix with pragmatism and passion for business impact 
