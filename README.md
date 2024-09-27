@@ -78,7 +78,7 @@ Edmondo (recipe for four people): 🧑‍🍳
   <img src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg" alt="clojure"/>
 </h4>
 
-<h4 align="center">Practiced in the past, not working with them in last 2 years</h4>
+<h4 align="center">Significant past expertise/experience</h4>
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"/> 
  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg" alt="scala"/>
